@@ -1,0 +1,89 @@
+.link-underline {
+    position: relative;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+.link-underline::before,
+.link-underline::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 4px;
+    background: black;
+    transform: scaleY(0);
+    transition: transform 0.3s ease-out;
+}
+.link-underline::before {
+    left: 0;
+    transform-origin: top left;
+}
+.link-underline::after {
+    right: 0;
+    transform-origin: top right;
+}
+.link-underline:hover::before,
+.link-underline:hover::after {
+    transform: scaleY(1);
+}
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.quote-box {
+  border: 4px solid black; /* Bordure noire pour le carré */
+  padding: 2rem; /* Espace entre la bordure et le contenu */
+  margin: 20rem; /* Espace autour de la boîte de citation */
+  margin-left: 30rem;
+  margin-right: 30rem;
+  margin-top: 20rem;
+  margin-bottom: 10rem;
+  text-align: center; /* Centrer le texte dans la boîte */
+  background: white; /* Fond blanc pour couvrir le séparateur */
+  position: relative; /* Position relative pour superposer le séparateur */
+  z-index: 2; /* S'assurer que la boîte est au-dessus du séparateur */
+}
+
+.quote-box-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Centrer horizontalement */
+  position: relative; /* Position relative pour le z-index */
+  padding: 2rem 0; /* Espace au-dessus et en dessous de la boîte */
+}
+
+.quote-text {
+  font-weight: bold; /* Style italique pour la citation */
+  margin-bottom: 0.5rem; /* Espace sous la citation */
+  font-family: 'Roboto';
+  font-size: large;
+}
+
+.quote-author {
+  margin-top: 0.5rem;
+  font-weight: bold; /* Texte en gras pour l'auteur */
+  font-style: normal; /* Texte normal pour l'auteur */
+}
+
+.separator {
+  height: 4px;
+  background-color: black;
+  width: 100%;
+  top: 56%;
+  position: absolute; /* Position absolue pour placer derrière la boîte de citation */
+  z-index: 1; /* Mettre en dessous de la boîte de citation */
+}
+
+
+.greeting-text-container {
+  /* Centrer le texte horizontalement */
+  text-align: center;
+  margin-top: 10rem;
+}
+
+.greeting-text {
+  /* Style pour le texte de salutation */
+  font-size: 2rem; /* Exemple de taille de police */
+  font-weight: bold; /* Exemple de poids de police */
+  /* Ajoutez d'autres styles si nécessaire */
+}
