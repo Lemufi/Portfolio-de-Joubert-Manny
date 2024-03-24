@@ -1,89 +1,185 @@
+/*Branlette Visuelle*/
 .link-underline {
-    position: relative;
-    padding-left: 16px;
-    padding-right: 16px;
-}
-.link-underline::before,
-.link-underline::after {
-    content: '';
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    width: 4px;
-    background: black;
-    transform: scaleY(0);
-    transition: transform 0.3s ease-out;
-}
-.link-underline::before {
-    left: 0;
-    transform-origin: top left;
-}
-.link-underline::after {
-    right: 0;
-    transform-origin: top right;
-}
-.link-underline:hover::before,
-.link-underline:hover::after {
-    transform: scaleY(1);
-}
-body {
-    font-family: 'Roboto', sans-serif;
+  position: relative;
+  padding-left: 16px;
+  padding-right: 16px;
 }
 
+.link-underline::before,
+.link-underline::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 4px;
+  background: black;
+  transform: scaleY(0);
+  transition: transform 0.3s ease-out;
+}
+
+.link-underline::before {
+  left: 0;
+  transform-origin: top left;
+}
+
+.link-underline::after {
+  right: 0;
+  transform-origin: top right;
+}
+
+.link-underline:hover::before,
+.link-underline:hover::after {
+  transform: scaleY(1);
+}
+/*Fin de la branlette*/
+
+html {
+  font-size: 62.5%;
+}
+
+/*Police Page*/
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+/*Boite de citation*/
 .quote-box {
-  border: 4px solid black; /* Bordure noire pour le carré */
-  padding: 2rem; /* Espace entre la bordure et le contenu */
-  margin: 20rem; /* Espace autour de la boîte de citation */
-  margin-left: 30rem;
-  margin-right: 30rem;
-  margin-top: 20rem;
-  margin-bottom: 10rem;
-  text-align: center; /* Centrer le texte dans la boîte */
-  background: white; /* Fond blanc pour couvrir le séparateur */
-  position: relative; /* Position relative pour superposer le séparateur */
-  z-index: 2; /* S'assurer que la boîte est au-dessus du séparateur */
+border: 4px solid black;
+padding: 2rem;
+margin-left: 30rem;
+margin-right: 30rem;
+margin-bottom: -14.1rem;
+text-align: center;
+background: white;
+position: relative;
+z-index: 2;
 }
 
 .quote-box-container {
-  display: flex;
-  flex-direction: column;
-  align-items: center; /* Centrer horizontalement */
-  position: relative; /* Position relative pour le z-index */
-  padding: 2rem 0; /* Espace au-dessus et en dessous de la boîte */
+flex-direction: column;
+align-items: center;
+position: relative;
 }
 
 .quote-text {
-  font-weight: bold; /* Style italique pour la citation */
-  margin-bottom: 0.5rem; /* Espace sous la citation */
-  font-family: 'Roboto';
-  font-size: large;
+font-weight: bold;
+margin-bottom: 0.5rem;
+font-family: 'Roboto';
+font-size: large;
 }
 
 .quote-author {
-  margin-top: 0.5rem;
-  font-weight: bold; /* Texte en gras pour l'auteur */
-  font-style: normal; /* Texte normal pour l'auteur */
+margin-top: 0.5rem;
+font-weight: bold;
+font-style: normal;
+}
+/*Fin boite de citation*/
+
+/*Background Après citation*/
+.backACitation {
+  width: 100%; /* Prend la largeur totale de la page */
+  height: 50rem; /* Définit la hauteur du bloc */
+  background-color: black; /* Mettez ici la couleur de fond désirée */
+  position: relative; /* position relative si vous ne voulez pas qu'il se superpose à d'autres éléments */
+  /* Ajoutez d'autres styles si nécessaire */
 }
 
 .separator {
-  height: 4px;
-  background-color: black;
-  width: 100%;
-  top: 56%;
-  position: absolute; /* Position absolue pour placer derrière la boîte de citation */
-  z-index: 1; /* Mettre en dessous de la boîte de citation */
+height: 4px;
+background-color: black;
+width: 100%;
+top: 50%;
+position: absolute; /*Passer en dessous de la boite de citation*/
 }
 
-
+/*Texte centré*/
 .greeting-text-container {
-  /* Centrer le texte horizontalement */
-  text-align: center;
-  margin-top: 10rem;
+text-align: center;
+margin-top: 10rem;
 }
 
 .greeting-text {
-  /* Style pour le texte de salutation */
-  font-size: 2rem; /* Exemple de taille de police */
-  font-weight: bold; /* Exemple de poids de police */
-  /* Ajoutez d'autres styles si nécessaire */
+font-size: 2rem;
+font-weight: bold;
 }
+
+/*Curseur*/
+html, body, .site-container {
+cursor: url('../images/5e8a415aacdbb524713eb277_cursor.png'), auto;
+cursor: -webkit-image-set(
+  url('../images/5e8a415aacdbb524713eb277_cursor.png') 1x,
+  url('../images/5e8a415acce5fbb114b18c35_cursor@2x.png') 2x
+), auto;
+}
+
+.site-container::-webkit-scrollbar {
+  width:14px;
+  }
+
+  /*track*/
+  .site-container::-webkit-scrollbar-track {
+  background-color: #ffffff;
+  background-size: 6px;
+  border-left: 4px solid #000000;
+  }
+  
+  /*thumb*/
+  .site-container::-webkit-scrollbar-thumb {
+  background:#c4c4c4;
+  border: 4px solid #000000;
+  border-right: none;
+  }
+
+  /*thumb hover*/
+  .site-container::-webkit-scrollbar-thumb:hover {
+  background:#ffffff;
+  }
+
+  /*thumb pressed*/
+  .site-container::-webkit-scrollbar-thumb:active {
+  background: #ffffff;
+  }
+  
+  .header {
+    width: calc(100% - 16px);
+  }
+  
+  .site-container {
+    height: calc(100vh - 68px);
+    overflow-x: hidden;
+    overflow-y: scroll;
+    margin-top: -4px;
+    margin-bottom: -4px;
+  }
+
+  /*RESPONSIVE*/
+  @media screen and (min-width: 768px) {
+    .header {
+      width: calc(100% - 24px);
+    }
+  }
+  @media screen and (min-width: 991px) {
+    .header {
+      width: calc(100% - 40px);
+    }
+    .site-container::-webkit-scrollbar {
+      width: 24px;
+    }
+  }
+  
+  @media screen and (min-width: 991px) {
+    .click-to-top:nth-child(2) {
+      top: 100px;
+      right: 0px;
+    }
+    .click-to-top:nth-child(3) {
+      left: 50px;
+      top: 250px;
+      right: 0px;
+    }
+    .click-to-top:nth-child(4) {
+      left: auto;
+      top: 350px;
+      right: 70px;
+    }
+  }
