@@ -113,10 +113,10 @@
 
         <!-- NAVBAR -->
         <nav role="navigation" class="nav-menu w-nav-menu">
-            <a href="projects.php" data-w-id="1b0214a5-408b-540b-64df-3835fd7e4438"
+            <a href="../projects.php" data-w-id="1b0214a5-408b-540b-64df-3835fd7e4438"
                 class="nav-link w-nav-link">Projets</a>
-            <a href="cv.php" data-w-id="1b0214a5-408b-540b-64df-3835fd7e443a" class="nav-link w-nav-link">CV</a>
-            <a href="veilleTechno.php" data-w-id="1b0214a5-408b-540b-64df-3835fd7e443c"
+            <a href="../cv.php" data-w-id="1b0214a5-408b-540b-64df-3835fd7e443a" class="nav-link w-nav-link">CV</a>
+            <a href="../veilleTechno.php" data-w-id="1b0214a5-408b-540b-64df-3835fd7e443c"
                 class="nav-link w-nav-link">Veille Informatique</a>
             <div data-hover="true" data-delay="0" class="w-dropdown">
                 <div data-w-id="1b0214a5-408b-540b-64df-3835fd7e4441" class="dropdown-toggle w-dropdown-toggle">
