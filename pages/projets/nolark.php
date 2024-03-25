@@ -16,8 +16,34 @@
     <link href="https://fonts.googleapis.com" rel="preconnect" />
     <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous" />
 
+    <script src="https://cdn.jsdelivr.net/npm/medium-zoom/dist/medium-zoom.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
     <script src="../../js/text.js" type="text/javascript"></script>
+    <script src="../../js/zoomImage.js" type="text/javascript"></script>
+    
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const zoom = mediumZoom('[data-zoomable]', {
+                margin: 0,
+                background: '#00500'
+            });
+
+        });
+    </script>
+
+    <style>
+        .medium-zoom-overlay,
+        .medium-zoom-image--opened {
+            z-index: 9999 !important;
+            border: 4px solid black !important;
+            background: rgba(0, 0, 0, 0.7) !important;
+        }
+
+        .header {
+            z-index: 1;
+        }
+    </style>
+
 </head>
 
 <body>
@@ -150,51 +176,15 @@
                             <div>-project.html</div>
                         </div>
                     </div>
-                    <div style="background-image:url(&quot;https://assets-global.website-files.com/5e8b5d6cee4cf17b3ee15385/5e8b5dc4752dd8f0bf5f1d51_1586191812047-image5.jpg&quot;)"
-                        class="modal-thumbnail large"></div>
-                    <div class="modal-body">
-                        <div class="w-embed">
-                            <style>
-                            p+h2,
-                            p+h3,
-                            p+h4,
-                            p+h5,
-                            p+h6 {
-                                margin-top: 48px;
-                            }
-                            </style>
-                        </div>
-                        <div class="container-width-medium">
-                            <h1>Nolark</h1>
-                            <div class="rich-text-block w-richtext">
-                                <h2>Est est ipsa voluptates deserunt architecto.</h2>
-                                <p>Debitis rerum perspiciatis aliquid porro ab cum similique architecto. Sit minima qui
-                                    et deleniti. Possimus velit et architecto qui.</p>
-                                <h3>Nihil ut ut ipsa.</h3>
-                                <blockquote>Enim vero dolorem ab velit laboriosam aspernatur. Neque minima sint esse.
-                                    Perferendis omnis asperiores consequatur.</blockquote>
-                                <p>Vel assumenda provident nam incidunt rerum. Molestias magnam molestiae consectetur
-                                    nihil voluptatem dolor harum saepe qui. Dicta enim impedit.</p>
-                                <p>Qui ducimus dolore vero rem ut quis repellat vitae. Ipsa qui quia reprehenderit. Eum
-                                    ipsa deleniti earum eos magnam ratione.</p>
-                                <h2>Nihil nostrum nostrum sint beatae est aut.</h2>
-                                <p>Optio est perferendis molestiae veritatis nihil dolor voluptatibus qui rerum.
-                                    Eligendi aspernatur ea quis blanditiis deleniti itaque veniam dolores. In cumque
-                                    quia quidem architecto est pariatur. Hic sit numquam rerum. Dolorum nulla
-                                    consequatur voluptatum aut.</p>
-                                <h3>Quia nulla atque molestias.</h3>
-                                <blockquote>Adipisci voluptatem facere aspernatur fugit. Rem rem qui expedita explicabo
-                                    accusamus ut voluptatem expedita. Non minus est autem pariatur earum blanditiis unde
-                                    molestiae. Quam delectus cumque id. Esse fugit molestiae qui eos est enim molestiae
-                                    aperiam consequatur.</blockquote>
-                                <p>Sequi aut voluptates est aliquam et. Optio illum eum et non aut explicabo totam est
-                                    excepturi. Numquam voluptatem maxime ipsa pariatur rerum. Aut enim dolor quidem. Sit
-                                    explicabo qui cum.</p>
-                                <p>Vel nemo odio impedit rerum dolorem accusamus ducimus aut laboriosam. Exercitationem
-                                    sed eveniet. Numquam dolorem odio delectus non voluptatem et. Dicta est dolores esse
-                                    eaque. Sequi quis voluptatem quisquam dolores officia consectetur officiis et.</p>
-                            </div>
-                        </div>
+                    <div>
+                        <img src="../../images/test.png" data-zoomable/>
+                    </div>
+                    <div class="w-embed modal-body">
+                        <h1>Ceci est un titre de test</h1>
+                        <h2>Ca aussi</h2>
+                        <h3>Lui aussi...</h3>
+                        <blockquote>Ceci est une citation de test</blockquote>
+                        <p>Texte nul de test :(</p>
                     </div>
                 </div>
             </div>
@@ -222,13 +212,7 @@
                             <div class="modal-body">
                                 <div>
                                     <h3>ProjetAleatoire</h3>
-                                    <p>Officia sit numquam fugiat sint molestiae id.
-                                        Est modi est at debitis dolorem.
-                                        Ut voluptate quod rem dolores sint molestiae maiores.
-                                        Quaerat consequatur quia libero voluptatem dolores vel.
-                                        Non rerum esse voluptate voluptatem et aliquam sapiente blanditiis.
-                                        Voluptates aperiam suscipit.
-                                        Ut et</p>
+                                    <p>Description de projet test</p>
                                 </div>
                                 <div class="row-space-between"><a href="/project/possimus" aria-current="page"
                                         class="button w-button w--current">Voir le projet</a></div>
@@ -257,5 +241,5 @@
         type="text/javascript"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js" type="text/javascript"></script>
     <script src="../../js/dropbar.js" type="text/javascript" </script>
-    < /body> <
-    /html>
+    < /body> < /
+    html >
