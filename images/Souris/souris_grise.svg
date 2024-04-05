@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="souris_grise" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 167.24 324">
+    <defs>
+        <style>
+            .cls-1{fill:none;}.cls-1,.cls-2,.cls-3,.cls-4,.cls-5{stroke:#000;stroke-width:4px;}.cls-1,.cls-3,.cls-4{stroke-linecap:round;stroke-linejoin:round;}.cls-2,.cls-4{fill:#bababa;}.cls-2,.cls-5{stroke-miterlimit:10;}.cls-3,.cls-5{fill:#000;}</style>
+    </defs>
+    <path class="cls-1" d="M111.68,194.84s30.71,8.44,27.17,31.78-39.33,70.37-.06,78.36" />
+    <ellipse class="cls-2" cx="88.6" cy="141.42" rx="56.14" ry="60.59"
+        transform="translate(-42.6 38.29) rotate(-19.76)" />
+    <path class="cls-2"
+        d="M45.77,36.14s-6.08,4.11-10.34,18.62c-2.52,8.58-1.68,26.59-1.68,26.59,0,0,1.47,20.05,13.75,22.86s39.88-3.34,45.13-16.03c7.3-17.65-18.3-40.73-28.52-46.06-11.47-5.97-18.33-5.97-18.33-5.97Z" />
+    <circle class="cls-2" cx="41.64" cy="98.6" r="17.77" />
+    <circle class="cls-2" cx="93.92" cy="76.6" r="17.77" />
+    <line class="cls-4" x1="32.88" y1="56.72" x2="13.79" y2="52.79" />
+    <line class="cls-4" x1="36.75" y1="47.4" x2="26.02" y2="45.57" />
+    <line class="cls-4" x1="73.2" y1="46.79" x2="89.52" y2="36.14" />
+    <circle class="cls-3" cx="45.77" cy="30.41" r="6.08" />
+    <line class="cls-4" x1="65.95" y1="40.2" x2="73.2" y2="32.07" />
+    <circle class="cls-5" cx="49.67" cy="67.38" r="2.18" />
+    <circle class="cls-5" cx="65.07" cy="63.18" r="2.18" />
+</svg>

@@ -143,7 +143,7 @@
         <div class="section small-section">
             <div class="container">
                 <h1>Projets</h1>
-                <div class="subhead">Beep boop bop.</div>
+                <div class="subhead">Beep boop boop.</div>
             </div>
         </div>
         <div data-w-id="17ac18b5-161b-07f2-842a-a33f4d0523b9" class="section pattern">
@@ -162,18 +162,13 @@
                                     <div>-project.html</div>
                                 </div>
                             </div>
-                            <div style="background-image:url(&quot;https://assets-global.website-files.com/5e8b5d6cee4cf17b3ee15385/5e8b5dc4752dd8f0bf5f1d51_1586191812047-image5.jpg&quot;)"
+                            <div style="background-image:url(&quot;../images/Nolark/nolarkcasque.png&quot;)"
                                 class="modal-thumbnail"></div>
                             <div class="modal-body">
                                 <div>
                                     <h3>Nolark</h3>
-                                    <p>Officia sit numquam fugiat sint molestiae id.
-                                        Est modi est at debitis dolorem.
-                                        Ut voluptate quod rem dolores sint molestiae maiores.
-                                        Quaerat consequatur quia libero voluptatem dolores vel.
-                                        Non rerum esse voluptate voluptatem et aliquam sapiente blanditiis.
-                                        Voluptates aperiam suscipit.
-                                        Ut et</p>
+                                    <p>Site Web de vente de casque de motos <br />
+                                        Technologies utilisées : NetBeans, PHP, HTML, CSS, JS, GIT</p>
                                 </div>
                                 <div class="row-space-between"><a href="projets/nolark.php" class="button w-button">Voir le projet</a></div>
                             </div>
@@ -186,20 +181,17 @@
                                     <div class="button-circle"></div>
                                 </div>
                                 <div class="flex-center">
-                                    <div>Projet2</div>
+                                    <div>AssistantVirtuel</div>
                                     <div>-project.html</div>
                                 </div>
                             </div>
-                            <div style="background-image:url(&quot;https://assets-global.website-files.com/5e8b5d6cee4cf17b3ee15385/5e8b5d9e69409f416ae4a054_1586191773823-image15.jpg&quot;)"
+                            <div style="background-image:url(&quot;../images/AssistantVirtuel/ENVIRONEMENT SM.png&quot;)"
                                 class="modal-thumbnail"></div>
                             <div class="modal-body">
                                 <div>
-                                    <h3>Projet2</h3>
-                                    <p>Consequatur consequatur et quisquam sit velit.
-                                        Distinctio perferendis sint omnis.
-                                        Vitae et sint repellendus consequatur cumque ducimus eos atque.
-                                        Eligendi cupiditate praesentium est dolore qui et.
-                                        Iure non minima architecto laudantium asperiores.
+                                    <h3>AssistantVirtuel</h3>
+                                    <p>Serious game d'apprentissage pour les élèves de l'école des sous-mariniers <br />
+                                    Technologies utilisées : Unity, C#
                                     </p>
                                 </div>
                                 <div class="row-space-between"><a href="/project/dolorum-ullam-totam"
@@ -214,25 +206,195 @@
                                     <div class="button-circle"></div>
                                 </div>
                                 <div class="flex-center">
-                                    <div>Projet3</div>
+                                    <div>Saxo</div>
                                     <div>-project.html</div>
                                 </div>
                             </div>
-                            <div style="background-image:url(&quot;https://assets-global.website-files.com/5e8b5d6cee4cf17b3ee15385/5e8b5dc4752dd8f0bf5f1d51_1586191812047-image5.jpg&quot;)"
+                            <div style="background-image:url(&quot;../images/Saxo/IHM1-Instructeur – 1.png&quot;)"
                                 class="modal-thumbnail"></div>
                             <div class="modal-body">
                                 <div>
-                                    <h3>Projet3</h3>
-                                    <p>Eum quisquam commodi eveniet nemo quod ratione maiores.
-                                        Laboriosam sed qui laborum deleniti voluptas nemo tempora.
-                                        Harum et quos.
-                                        Fugit alias rem a tenetur eos iste.
-                                        Culpa est sed nemo.
-                                        In sunt mollitia assumenda fugiat labore optio natus.
-                                        Dolores vel eius.
-                                        Quia quasi et sed omnis ne</p>
+                                    <h3>Saxo</h3>
+                                    <p>Logiciel éducatif d'écoute pour les oreilles d'or <br />
+                                        Technologies utilisées : Visual Studio, C#, Xaml, BDD SQL, GIT
+                                    </p>
+                                </div>
+                                <div class="row-space-between"><a href="/project/dolorum-ullam-totam"
+                                        class="button w-button">Voir le projet</a></div>
+                            </div>
+                        </div>
+                        <div data-w-id="5a8b8f09-d259-86e6-1c31-b57b69680df5" role="listitem"
+                            class="modal-wrapper w-dyn-item">
+                            <div class="modal-header">
+                                <div class="button-circles-wrap">
+                                    <div class="button-circle"></div>
+                                    <div class="button-circle"></div>
+                                </div>
+                                <div class="flex-center">
+                                    <div>Pipe</div>
+                                    <div>-project.html</div>
+                                </div>
+                            </div>
+                            <div style="background-image:url(&quot;../images/Pipe/ASSEMBLAGE.png&quot;)"
+                                class="modal-thumbnail"></div>
+                            <div class="modal-body">
+                                <div>
+                                    <h3>Pipe</h3>
+                                    <p>Simulateur de construction de tuyauteries de sous-marins <br />
+                                        Technologies utilisées : Visual Studio, C#, Xaml
+                                    </p>
                                 </div>
                                 <div class="row-space-between"><a href="/project/nostrum" class="button w-button">Voir le projet</a></div>
+                            </div>
+                        </div>
+                        <div data-w-id="5a8b8f09-d259-86e6-1c31-b57b69680df5" role="listitem"
+                            class="modal-wrapper w-dyn-item">
+                            <div class="modal-header">
+                                <div class="button-circles-wrap">
+                                    <div class="button-circle"></div>
+                                    <div class="button-circle"></div>
+                                </div>
+                                <div class="flex-center">
+                                    <div>Lemufi</div>
+                                    <div>-project.fr</div>
+                                </div>
+                            </div>
+                            <div style="background-image:url(&quot;../images/lemufi.fr/front.png&quot;)"
+                                class="modal-thumbnail"></div>
+                            <div class="modal-body">
+                                <div>
+                                    <h3>Lemufi.fr</h3>
+                                    <p>Site web dédié à la présentation de mon parcours  <br />
+                                        Technologies utilisées : Visual Studio Code, HTML, CSS, PHP
+                                    </p>
+                                </div>
+                                <div class="row-space-between"><a href="/project/dolorum-ullam-totam"
+                                        class="button w-button">Voir le projet</a></div>
+                            </div>
+                        </div>
+                        <div data-w-id="5a8b8f09-d259-86e6-1c31-b57b69680df5" role="listitem"
+                            class="modal-wrapper w-dyn-item">
+                            <div class="modal-header">
+                                <div class="button-circles-wrap">
+                                    <div class="button-circle"></div>
+                                    <div class="button-circle"></div>
+                                </div>
+                                <div class="flex-center">
+                                    <div>MonPetitMvc</div>
+                                    <div>-project.html</div>
+                                </div>
+                            </div>
+                            <div style="background-image:url(&quot;../images/MonPetitMvc/CreerClient.png&quot;)"
+                                class="modal-thumbnail"></div>
+                            <div class="modal-body">
+                                <div>
+                                    <h3>MonPetitMvc</h3>
+                                    <p>Projet d'initiation à l'utilisation des controllers<br />
+                                        Technologies utilisées : NetBeans, PHP, HTML, TWIG, BDD SQL
+                                    </p>
+                                </div>
+                                <div class="row-space-between"><a href="/project/dolorum-ullam-totam"
+                                        class="button w-button">Voir le projet</a></div>
+                            </div>
+                        </div>
+                        <div data-w-id="5a8b8f09-d259-86e6-1c31-b57b69680df5" role="listitem"
+                            class="modal-wrapper w-dyn-item">
+                            <div class="modal-header">
+                                <div class="button-circles-wrap">
+                                    <div class="button-circle"></div>
+                                    <div class="button-circle"></div>
+                                </div>
+                                <div class="flex-center">
+                                    <div>XPHA</div>
+                                    <div>-project.html</div>
+                                </div>
+                            </div>
+                            <div style="background-image:url(&quot;../images/XPHA/XPha.png&quot;)"
+                                class="modal-thumbnail"></div>
+                            <div class="modal-body">
+                                <div>
+                                    <h3>XPHA</h3>
+                                    <p>Court projet d'initiation à Xamarin<br />
+                                        Technologies utilisées : Visual Studio, Xamarin, VM Android, C#, Xaml
+                                    </p>
+                                </div>
+                                <div class="row-space-between"><a href="/project/dolorum-ullam-totam"
+                                        class="button w-button">Voir le projet</a></div>
+                            </div>
+                        </div>
+                        <div data-w-id="5a8b8f09-d259-86e6-1c31-b57b69680df5" role="listitem"
+                            class="modal-wrapper w-dyn-item">
+                            <div class="modal-header">
+                                <div class="button-circles-wrap">
+                                    <div class="button-circle"></div>
+                                    <div class="button-circle"></div>
+                                </div>
+                                <div class="flex-center">
+                                    <div>Lemufi's Addons</div>
+                                    <div>-project.html</div>
+                                </div>
+                            </div>
+                            <div style="background-image:url(&quot;../images/LemufisAddons/lethal-company-pc-802068cc.png&quot;)"
+                                class="modal-thumbnail"></div>
+                            <div class="modal-body">
+                                <div>
+                                    <h3>Lemufi's Addons</h3>
+                                    <p>Mod modifiant des fonctionnalités dans le jeu Lethal Company<br />
+                                        Technologies utilisées : Visual Studio, C#, Xaml, Unity
+                                    </p>
+                                </div>
+                                <div class="row-space-between"><a href="/project/dolorum-ullam-totam"
+                                        class="button w-button">Voir le projet</a></div>
+                            </div>
+                        </div>
+                        <div data-w-id="5a8b8f09-d259-86e6-1c31-b57b69680df5" role="listitem"
+                            class="modal-wrapper w-dyn-item">
+                            <div class="modal-header">
+                                <div class="button-circles-wrap">
+                                    <div class="button-circle"></div>
+                                    <div class="button-circle"></div>
+                                </div>
+                                <div class="flex-center">
+                                    <div>GSB</div>
+                                    <div>-project.html</div>
+                                </div>
+                            </div>
+                            <div style="background-image:url(&quot;../images/GSB/listefichefrais.png&quot;)"
+                                class="modal-thumbnail"></div>
+                            <div class="modal-body">
+                                <div>
+                                    <h3>Galaxy Swiss Bourdin</h3>
+                                    <p>Application de gestion des frais par les visites médicales<br />
+                                        Technologies utilisées : NetBeans, PHP, BDD SQL, GIT
+                                    </p>
+                                </div>
+                                <div class="row-space-between"><a href="/project/dolorum-ullam-totam"
+                                        class="button w-button">Voir le projet</a></div>
+                            </div>
+                        </div>
+                        <div data-w-id="5a8b8f09-d259-86e6-1c31-b57b69680df5" role="listitem"
+                            class="modal-wrapper w-dyn-item">
+                            <div class="modal-header">
+                                <div class="button-circles-wrap">
+                                    <div class="button-circle"></div>
+                                    <div class="button-circle"></div>
+                                </div>
+                                <div class="flex-center">
+                                    <div>MDL</div>
+                                    <div>-project.html</div>
+                                </div>
+                            </div>
+                            <div style="background-image:url(&quot;../images/MDL/Accueil.png&quot;)"
+                                class="modal-thumbnail"></div>
+                            <div class="modal-body">
+                                <div>
+                                    <h3>Maison Des Ligues</h3>
+                                    <p>Plateforme destinée à la gestion des inscriptions aux congrès d'escrime<br />
+                                        Technologies utilisées : NetBeans, Symfony, GIT, TWIG, BDD SQL, PHP, ORACLE
+                                    </p>
+                                </div>
+                                <div class="row-space-between"><a href="/project/dolorum-ullam-totam"
+                                        class="button w-button">Voir le projet</a></div>
                             </div>
                         </div>
                     </div>

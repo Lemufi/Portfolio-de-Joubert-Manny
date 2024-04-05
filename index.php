@@ -32,8 +32,8 @@
             html,
             body,
             .site-container {
-                cursor: url('images/5e8a415aacdbb524713eb277_cursor.png'), auto;
-                cursor: -webkit-image-set(url('images/5e8a415aacdbb524713eb277_cursor.png') 1x,
+                cursor: url('images/souris_grise.svg'), auto;
+                cursor: -webkit-image-set(url('images/souris_grise.svg') 1x,
                         url('images/5e8a415acce5fbb114b18c35_cursor@2x.png') 2x), auto;
             }
 
@@ -195,7 +195,7 @@
                                     Quaerat consequatur quia libero voluptatem dolores vel.
                                     Non rerum esse voluptate voluptatem et aliquam sapiente blanditiis.
                                     Voluptates aperiam suscipit.
-                                    Ut et</p><a href="/project/possimus" class="button w-button">Voir le projet</a>
+                                    Ut et</p><a href="/pages/projets/nolark.php" class="button w-button">Voir le projet</a>
                             </div>
                         </div>
                         <div role="listitem" class="modal-wrapper project w-dyn-item">

@@ -5,8 +5,8 @@ html {
 html,
 body,
 .site-container {
-    cursor: url('images/5e8a415aacdbb524713eb277_cursor.png'), auto;
-    cursor: -webkit-image-set(url('images/5e8a415aacdbb524713eb277_cursor.png') 1x,
+    cursor: url('images/souris_grise.svg'), auto;
+    cursor: -webkit-image-set(url('images/souris_grise.svg') 1x,
             url('images/5e8a415acce5fbb114b18c35_cursor@2x.png') 2x), auto;
 }
 
