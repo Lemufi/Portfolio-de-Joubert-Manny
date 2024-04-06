@@ -1,0 +1,24 @@
+.imagecv {
+    width : 650px;
+    height : 800px;
+}
+
+.containercv {
+    width: auto;
+    max-width: 1296px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+.containercv2 {
+width: 75vw;
+max-width: 1296px;
+margin-right: auto;
+margin-left: auto;
+margin-bottom: 15rem;
+}
+
+.competences {
+    width : 1200x;
+    height : 750px;
+}
