@@ -161,11 +161,32 @@ cursor: -webkit-image-set(
 
   .carousel {
     position: relative;
-    max-width: 600px; /* Ajustez cette valeur selon votre besoin */
-    margin: auto;
+    width: 1100px; /* Ajustez cette valeur selon votre besoin */
+    height: 520px;
+    margin-top: -32px;
+    margin-bottom: -32px;
+    margin-left: -32px;
     overflow: hidden;
-    margin-top: 4rem;
-    margin-bottom: 4rem;
+}
+
+.containerVeille {
+  width: 1107px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 4rem;
+}
+
+.projetsuivant {
+  display: flex;
+  justify-content: center;
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+
+.titreveille {
+  margin-top: 5rem;
+  display: flex;
+  justify-content: center;
 }
 
 .slides {

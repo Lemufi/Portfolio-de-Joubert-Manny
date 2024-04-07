@@ -232,7 +232,7 @@
                     </div>
                     <div class="w-embed modal-body">
                         <h1>Activités</h1>
-                        <h3> Piano Jazz, Classique ; Saxophone ; Violon.
+                        <h3> Piano, Saxophone, Guitare. <br />
                             Montage photo, vidéo, son. </h3>
                     </div>
                 </div>

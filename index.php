@@ -181,21 +181,17 @@
                                     <div class="button-circle"></div>
                                 </div>
                                 <div class="flex-center">
-                                    <div>Nolark</div>
+                                    <div>AssistantVirtuel</div>
                                     <div>-project.html</div>
                                 </div>
                             </div>
-                            <div style="background-image:url(&quot;https://assets-global.website-files.com/5e8b5d6cee4cf17b3ee15385/5e8b5dc4752dd8f0bf5f1d51_1586191812047-image5.jpg&quot;)"
+                            <div style="background-image:url(&quot;images/AssistantVirtuel/ENVIRONEMENT SM.png&quot;)"
                                 class="modal-thumbnail"></div>
                             <div class="modal-body">
-                                <h3>Nolark</h3>
-                                <p>Officia sit numquam fugiat sint molestiae id.
-                                    Est modi est at debitis dolorem.
-                                    Ut voluptate quod rem dolores sint molestiae maiores.
-                                    Quaerat consequatur quia libero voluptatem dolores vel.
-                                    Non rerum esse voluptate voluptatem et aliquam sapiente blanditiis.
-                                    Voluptates aperiam suscipit.
-                                    Ut et</p><a href="/pages/projets/nolark.php" class="button w-button">Voir le projet</a>
+                                <h3>AssistantVirtuel</h3>
+                                <p>Serious game d'apprentissage pour les élèves de l'école des sous-mariniers <br />
+                                    Technologies utilisées : Unity, C# 
+                                </p><a href="/pages/projets/assistantViruel.php" class="button w-button">Voir le projet</a>
                             </div>
                         </div>
                         <div role="listitem" class="modal-wrapper project w-dyn-item">

@@ -19,8 +19,33 @@
     <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous" />
 
     <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
+    <script src="https://cdn.jsdelivr.net/npm/medium-zoom/dist/medium-zoom.min.js"></script>
     <script src="../js/text.js" type="text/javascript"></script>
     <script src="../js/caroussel.js" type="text/javascript"></script>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const zoom = mediumZoom('[data-zoomable]', {
+                margin: 0,
+                background: '#00500'
+            });
+
+        });
+    </script>
+
+    <style>
+        .medium-zoom-overlay,
+        .medium-zoom-image--opened {
+            z-index: 9999 !important;
+            border: 4px solid black !important;
+            background: rgba(0, 0, 0, 0.7) !important;
+        }
+
+        .header {
+            z-index: 1;
+        }
+    </style>
+
 </head>
 
 <body>
@@ -142,26 +167,30 @@
 
     <div class="site-container">
 
-        <div class="carousel">
-            <div class="slides">
-                <div class="slide"><img src="../images/MoiLeMoi.jpg" alt="Image 1"></div>
-                <div class="slide"><img src="../images/test.png" alt="Image 2"></div>
-            </div>
-            <button class="prev">&#10094;</button>
-            <button class="next">&#10095;</button>
-        </div>
+        <h1 class="titreveille"> Ma Veille Technologique </h1>
 
-
-
-
-        <!-- Footer -->
-        <div class="footer">
-            <div class="container">
-                <div class="footer-row">
-                    <div class="footer-block">
-                        <div class="text-rights-short">©2024 Lemufi</div>
+        <div class="containerVeille">
+            <div class="modal-wrapper">
+                <div class="modal-header">
+                    <div class="button-circles-wrap"><a href="/" class="button-circle close w-inline-block"></a>
+                        <div class="button-circle"></div>
+                    </div>
+                    <div class="flex-center">
+                        <div>VeilleTechnologique</div>
+                        <div>-project.html</div>
                     </div>
                 </div>
+                <div class="w-embed modal-body">
+                    <div class="carousel">
+                        <div class="slides">
+                            <div class="slide imgslide"><img src="../images/VeilleTechno/Canban.PNG" alt="Notion Canban" data-zoomable></div>
+                            <div class="slide imgslide"><img src="../images/VeilleTechno/chaineYoutube.PNG" alt="Chaine youtube" data-zoomable></div>
+                            <div class="slide imgslide"><img src="../images/VeilleTechno/tlreddit.PNG" alt="tl Reddit" data-zoomable></div>
+                        </div>
+                        <button class="prev">&#10094;</button>
+                        <button class="next">&#10095;</button>
+                    </div>
+                </div>    
             </div>
         </div>
 

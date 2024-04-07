@@ -194,7 +194,7 @@
                                     Technologies utilisées : Unity, C#
                                     </p>
                                 </div>
-                                <div class="row-space-between"><a href="/project/dolorum-ullam-totam"
+                                <div class="row-space-between"><a href="projets/assistantVirtuel.php"
                                         class="button w-button">Voir le projet</a></div>
                             </div>
                         </div>
