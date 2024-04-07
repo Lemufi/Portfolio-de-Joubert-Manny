@@ -188,7 +188,7 @@
                             <div style="background-image:url(&quot;images/AssistantVirtuel/ENVIRONEMENT SM.png&quot;)"
                                 class="modal-thumbnail"></div>
                             <div class="modal-body">
-                                <h3>AssistantVirtuel</h3>
+                                <h3>Assistant Virtuel</h3>
                                 <p>Serious game d'apprentissage pour les élèves de l'école des sous-mariniers <br />
                                     Technologies utilisées : Unity, C# 
                                 </p><a href="/pages/projets/assistantViruel.php" class="button w-button">Voir le projet</a>
@@ -201,20 +201,17 @@
                                     <div class="button-circle"></div>
                                 </div>
                                 <div class="flex-center">
-                                    <div>Projet2</div>
+                                    <div>Saxo</div>
                                     <div>-project.html</div>
                                 </div>
                             </div>
-                            <div style="background-image:url(&quot;https://assets-global.website-files.com/5e8b5d6cee4cf17b3ee15385/5e8b5d9e69409f416ae4a054_1586191773823-image15.jpg&quot;)"
+                            <div style="background-image:url(&quot;images/Saxo/IHM1-Instructeur – 1.png&quot;)"
                                 class="modal-thumbnail"></div>
                             <div class="modal-body">
-                                <h3>Projet2</h3>
-                                <p>Consequatur consequatur et quisquam sit velit.
-                                    Distinctio perferendis sint omnis.
-                                    Vitae et sint repellendus consequatur cumque ducimus eos atque.
-                                    Eligendi cupiditate praesentium est dolore qui et.
-                                    Iure non minima architecto laudantium asperiores.
-                                </p><a href="/project/dolorum-ullam-totam" class="button w-button">Voir le projet</a>
+                                <h3>Saxo</h3>
+                                <p>Logiciel éducatif d'écoute pour les oreilles d'or <br />
+                                        Technologies utilisées : Visual Studio, C#, Xaml, BDD SQL, GIT
+                                </p><a href="/pages/projets/saxo.php" class="button w-button">Voir le projet</a>
                             </div>
                         </div>
                         <div role="listitem" class="modal-wrapper project w-dyn-item">
@@ -224,22 +221,16 @@
                                     <div class="button-circle"></div>
                                 </div>
                                 <div class="flex-center">
-                                    <div>Projet3</div>
+                                    <div>Gsb</div>
                                     <div>-project.html</div>
                                 </div>
                             </div>
-                            <div style="background-image:url(&quot;https://assets-global.website-files.com/5e8b5d6cee4cf17b3ee15385/5e8b5dc4752dd8f0bf5f1d51_1586191812047-image5.jpg&quot;)"
+                            <div style="background-image:url(&quot;images/GSB/listefichefrais.png&quot;)"
                                 class="modal-thumbnail"></div>
                             <div class="modal-body">
-                                <h3>Projet3</h3>
-                                <p>Eum quisquam commodi eveniet nemo quod ratione maiores.
-                                    Laboriosam sed qui laborum deleniti voluptas nemo tempora.
-                                    Harum et quos.
-                                    Fugit alias rem a tenetur eos iste.
-                                    Culpa est sed nemo.
-                                    In sunt mollitia assumenda fugiat labore optio natus.
-                                    Dolores vel eius.
-                                    Quia quasi et sed omnis ne</p><a href="/project/nostrum"
+                                <h3>Galaxy Swiss Bourdin</h3>
+                                <p>Application de gestion des frais par les visites médicales<br />
+                                        Technologies utilisées : NetBeans, PHP, BDD SQL, GIT</p><a href="/pages/projets/gsb.php"
                                     class="button w-button">Voir le projet</a>
                             </div>
                         </div>
@@ -250,21 +241,16 @@
                                     <div class="button-circle"></div>
                                 </div>
                                 <div class="flex-center">
-                                    <div>Projet4</div>
+                                    <div>LemufisAddons</div>
                                     <div>-project.html</div>
                                 </div>
                             </div>
-                            <div style="background-image:url(&quot;https://assets-global.website-files.com/5e8b5d6cee4cf17b3ee15385/5e8b5dc4a5a8f5f4c2572a88_1586191812022-image18.jpg&quot;)"
+                            <div style="background-image:url(&quot;images/LemufisAddons/lethal-company-pc-802068cc.png&quot;)"
                                 class="modal-thumbnail"></div>
                             <div class="modal-body">
-                                <h3>Projet4</h3>
-                                <p>Rerum voluptates atque laudantium qui sint praesentium et.
-                                    Doloribus minus aspernatur.
-                                    Nobis molestiae eos veniam voluptates qui totam molestiae.
-                                    A labore voluptatem illo soluta doloremque quaerat et est exercitationem.
-                                    Voluptatum natus placeat rem quae cum rerum.
-                                    Optio omnis officia.
-                                    Q</p><a href="/project/ut" class="button w-button">Voir le projet</a>
+                                <h3>Lemufi's Addons</h3>
+                                <p>Mod modifiant des fonctionnalités dans le jeu Lethal Company<br />
+                                        Technologies utilisées : Visual Studio, C#, Xaml, Unity</p><a href="/pages/projets/addon.php" class="button w-button">Voir le projet</a>
                             </div>
                         </div>
                     </div>

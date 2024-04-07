@@ -288,7 +288,7 @@
                                 class="modal-thumbnail"></div>
                             <div class="modal-body">
                                 <div>
-                                    <h3>MonPetitMvc</h3>
+                                    <h3>Mon Petit Mvc</h3>
                                     <p>Projet d'initiation à l'utilisation des controllers<br />
                                         Technologies utilisées : NetBeans, PHP, HTML, TWIG, BDD SQL
                                     </p>
@@ -330,7 +330,7 @@
                                     <div class="button-circle"></div>
                                 </div>
                                 <div class="flex-center">
-                                    <div>Lemufi's Addons</div>
+                                    <div>LemufisAddons</div>
                                     <div>-project.html</div>
                                 </div>
                             </div>

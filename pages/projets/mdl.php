@@ -176,7 +176,7 @@
                         <div class="button-circle"></div>
                     </div>
                     <div class="flex-center">
-                        <div>mdl</div>
+                        <div>Mdl</div>
                         <div>-project.html</div>
                     </div>
                 </div>

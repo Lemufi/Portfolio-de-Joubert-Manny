@@ -167,7 +167,7 @@
 
     <div class="site-container">
 
-        <h1 class="titreveille">Lemufi</h1>
+        <h1 class="titreveille">Lemufi.fr</h1>
 
         <div class="containerVeille">
             <div class="modal-wrapper">
@@ -196,6 +196,8 @@
 
         <div class="projetsuivant"><a href="mpmvc.php"
                                         class="button w-button">Voir le projet suivant</a></div>
+                                        <div class="projetsuivant"><a href="https://github.com/Lemufi/Portfolio-de-Joubert-Manny"
+                                        class="button w-button">Voir sur github</a></div>
 
     </div>
 
