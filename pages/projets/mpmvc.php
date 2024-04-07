@@ -60,7 +60,7 @@
                 html,
                 body,
                 .site-container {
-                    cursor: url('.../../images/Souris/souris_grise.svg'), auto;
+                    cursor: url('../../images/Souris/souris_grise.svg'), auto;
                     cursor: -webkit-image-set(url('../../images/Souris/souris_grise.svg') 1x,
                             url('../../images/Souris/souris_grise.svg') 2x), auto;
                 }
@@ -167,7 +167,7 @@
 
     <div class="site-container">
 
-        <h1 class="titreveille">Assistant Virtuel</h1>
+        <h1 class="titreveille">Mon Petit MVC</h1>
 
         <div class="containerVeille">
             <div class="modal-wrapper">
@@ -176,16 +176,16 @@
                         <div class="button-circle"></div>
                     </div>
                     <div class="flex-center">
-                        <div>AssistantVirtuel</div>
+                        <div>MonPetitMvc</div>
                         <div>-project.html</div>
                     </div>
                 </div>
                 <div class="w-embed modal-body">
                     <div class="carousel">
                         <div class="slides">
-                            <div class="slide imgslide"><img src="../../images/AssistantVirtuel/VUE JEU 1.PNG" data-zoomable></div>
-                            <div class="slide imgslide"><img src="../../images/AssistantVirtuel/ENVIRONEMENT SM.PNG" data-zoomable></div>
-                            <div class="slide imgslide"><img src="../../images/AssistantVirtuel/COURS VIDEO AVEC SON.PNG" data-zoomable></div>
+                            <div class="slide imgslide"><img src="../../images/MonPetitMvc/CreerClient.PNG" data-zoomable></div>
+                            <div class="slide imgslide"><img src="../../images/MonPetitMvc/RechercheClient.PNG" data-zoomable></div>
+                            <div class="slide imgslide"><img src="../../images/MonPetitMvc/SortieRechercheClient.PNG" data-zoomable></div>
                         </div>
                         <button class="prev">&#10094;</button>
                         <button class="next">&#10095;</button>
@@ -194,7 +194,7 @@
             </div>
         </div>
 
-        <div class="projetsuivant"><a href="saxo.php"
+        <div class="projetsuivant"><a href="xpha.php"
                                         class="button w-button">Voir le projet suivant</a></div>
 
     </div>

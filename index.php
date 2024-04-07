@@ -32,17 +32,17 @@
             html,
             body,
             .site-container {
-                cursor: url('images/souris_grise.svg'), auto;
-                cursor: -webkit-image-set(url('images/souris_grise.svg') 1x,
-                        url('images/5e8a415acce5fbb114b18c35_cursor@2x.png') 2x), auto;
+                cursor: url('images/Souris/souris_grise.svg'), auto;
+                cursor: -webkit-image-set(url('images/Souris/souris_grise.svg') 1x,
+                        url('images/Souris/souris_grise.svg') 2x), auto;
             }
 
             a,
             .dropdown-toggle,
             .button {
-                cursor: url('images/5e8a4a6206f67059bcd497ce_cursor-pointer.png'), auto;
-                cursor: -webkit-image-set(url('images/5e8a4a6206f67059bcd497ce_cursor-pointer.png') 1x,
-                        url('images/5e8a415acce5fbb114b18c35_cursor@2x.png') 2x), auto;
+                cursor: url('images/Souris/souris_noire.svg'), auto;
+                cursor: -webkit-image-set(url('images/Souris/souris_noire.svg') 1x,
+                        url('images/Souris/souris_noire.svg') 2x), auto;
             }
 
             /*width*/

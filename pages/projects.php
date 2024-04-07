@@ -6,7 +6,7 @@
     <title>Lemufi</title>
     <meta content="width=device-width, initial-scale=1" name="viewport" />
 
-    <link href="../images/IMG_20231013_153516_442.jpg" rel="shortcut icon" type="image/x-icon" /> <!-- A Changer -->
+    <link href="../images/chat/LECHAT.png" rel="shortcut icon" type="image/x-icon" /> <!-- A Changer -->
 
     <link href="../css/mac.css" rel="stylesheet" type="text/css" />
     <link href="../css/testimonial.css" rel="stylesheet" type="text/css" />
@@ -32,17 +32,17 @@
             html,
             body,
             .site-container {
-                cursor: url('../images/5e8a415aacdbb524713eb277_cursor.png'), auto;
-                cursor: -webkit-image-set(url('../images/5e8a415aacdbb524713eb277_cursor.png') 1x,
-                        url('../images/5e8a415acce5fbb114b18c35_cursor@2x.png') 2x), auto;
+                cursor: url('../images/Souris/souris_grise.svg'), auto;
+                cursor: -webkit-image-set(url('../images/Souris/souris_grise.svg') 1x,
+                        url('../images/Souris/souris_grise.svg') 2x), auto;
             }
 
             a,
             .dropdown-toggle,
             .button {
-                cursor: url('../images/5e8a4a6206f67059bcd497ce_cursor-pointer.png'), auto;
-                cursor: -webkit-image-set(url('../images/5e8a4a6206f67059bcd497ce_cursor-pointer.png') 1x,
-                        url('../images/5e8a415acce5fbb114b18c35_cursor@2x.png') 2x), auto;
+                cursor: url('../images/Souris/souris_noire.svg'), auto;
+                cursor: -webkit-image-set(url('../images/Souris/souris_noire.svg') 1x,
+                        url('../images/Souris/souris_noire.svg') 2x), auto;
             }
 
             /*width*/
@@ -108,7 +108,7 @@
 
         <!-- Navigation Header -->
         <a href="/" aria-current="page" class="logo-wrapper w-nav-brand w--current">
-            <img src="../images/IMG_20231013_153516_442.jpg" alt="Website Logo" class="logo" />
+            <img src="../images/chat/LECHAT.png" alt="Website Logo" class="logo" />
         </a>
 
         <!-- NAVBAR -->
@@ -219,7 +219,7 @@
                                         Technologies utilisées : Visual Studio, C#, Xaml, BDD SQL, GIT
                                     </p>
                                 </div>
-                                <div class="row-space-between"><a href="/project/dolorum-ullam-totam"
+                                <div class="row-space-between"><a href="projets/saxo.php"
                                         class="button w-button">Voir le projet</a></div>
                             </div>
                         </div>
@@ -244,7 +244,7 @@
                                         Technologies utilisées : Visual Studio, C#, Xaml
                                     </p>
                                 </div>
-                                <div class="row-space-between"><a href="/project/nostrum" class="button w-button">Voir le projet</a></div>
+                                <div class="row-space-between"><a href="projets/pipe.php" class="button w-button">Voir le projet</a></div>
                             </div>
                         </div>
                         <div data-w-id="5a8b8f09-d259-86e6-1c31-b57b69680df5" role="listitem"
@@ -268,7 +268,7 @@
                                         Technologies utilisées : Visual Studio Code, HTML, CSS, PHP
                                     </p>
                                 </div>
-                                <div class="row-space-between"><a href="/project/dolorum-ullam-totam"
+                                <div class="row-space-between"><a href="projets/lemufi.php"
                                         class="button w-button">Voir le projet</a></div>
                             </div>
                         </div>
@@ -293,7 +293,7 @@
                                         Technologies utilisées : NetBeans, PHP, HTML, TWIG, BDD SQL
                                     </p>
                                 </div>
-                                <div class="row-space-between"><a href="/project/dolorum-ullam-totam"
+                                <div class="row-space-between"><a href="projets/mpmvc.php"
                                         class="button w-button">Voir le projet</a></div>
                             </div>
                         </div>
@@ -318,7 +318,7 @@
                                         Technologies utilisées : Visual Studio, Xamarin, VM Android, C#, Xaml
                                     </p>
                                 </div>
-                                <div class="row-space-between"><a href="/project/dolorum-ullam-totam"
+                                <div class="row-space-between"><a href="projets/xpha.php"
                                         class="button w-button">Voir le projet</a></div>
                             </div>
                         </div>
@@ -343,7 +343,7 @@
                                         Technologies utilisées : Visual Studio, C#, Xaml, Unity
                                     </p>
                                 </div>
-                                <div class="row-space-between"><a href="/project/dolorum-ullam-totam"
+                                <div class="row-space-between"><a href="projets/addon.php"
                                         class="button w-button">Voir le projet</a></div>
                             </div>
                         </div>
@@ -368,7 +368,7 @@
                                         Technologies utilisées : NetBeans, PHP, BDD SQL, GIT
                                     </p>
                                 </div>
-                                <div class="row-space-between"><a href="/project/dolorum-ullam-totam"
+                                <div class="row-space-between"><a href="projets/gsb.php"
                                         class="button w-button">Voir le projet</a></div>
                             </div>
                         </div>
@@ -393,7 +393,7 @@
                                         Technologies utilisées : NetBeans, Symfony, GIT, TWIG, BDD SQL, PHP, ORACLE
                                     </p>
                                 </div>
-                                <div class="row-space-between"><a href="/project/dolorum-ullam-totam"
+                                <div class="row-space-between"><a href="projets/mdl.php"
                                         class="button w-button">Voir le projet</a></div>
                             </div>
                         </div>
