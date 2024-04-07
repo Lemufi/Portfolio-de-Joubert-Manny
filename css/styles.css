@@ -152,6 +152,61 @@ cursor: -webkit-image-set(
     margin-bottom: -4px;
   }
 
+  .gifchat {
+    width: 150;
+    height: auto;
+  }
+
+  /*CAROUSSEL*/
+
+  .carousel {
+    position: relative;
+    max-width: 600px; /* Ajustez cette valeur selon votre besoin */
+    margin: auto;
+    overflow: hidden;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+}
+
+.slides {
+    display: flex;
+    width: 100%;
+}
+
+.slide {
+    flex: 0 0 100%;
+    width: 100%;
+    display: none; /* Cache toutes les diapositives par défaut */
+}
+
+.slide img {
+    width: 100%; /* Assure que l'image prend toute la largeur de la diapositive */
+}
+
+.prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 10px;
+    font-size: 18px;
+}
+
+.next {
+    right: 0;
+}
+
+.prev {
+    left: 0;
+}
+
+.slide:first-child {
+  display: block;
+}
+
   /*RESPONSIVE*/
   @media screen and (min-width: 768px) {
     .header {

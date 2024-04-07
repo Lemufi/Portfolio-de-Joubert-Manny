@@ -6,7 +6,7 @@
     <title>Lemufi</title>
     <meta content="width=device-width, initial-scale=1" name="viewport" />
 
-    <link href="images/IMG_20231013_153516_442.jpg" rel="shortcut icon" type="image/x-icon" /> <!-- A Changer -->
+    <link href="images/chat/LECHAT.png" rel="shortcut icon" type="image/x-icon" /> <!-- A Changer -->
 
     <link href="css/mac.css" rel="stylesheet" type="text/css" />
     <link href="css/testimonial.css" rel="stylesheet" type="text/css" />
@@ -108,7 +108,7 @@
 
         <!-- Navigation Header -->
         <a href="/" aria-current="page" class="logo-wrapper w-nav-brand w--current">
-            <img src="images/IMG_20231013_153516_442.jpg" alt="Website Logo" class="logo" />
+            <img src="images/chat/LECHAT.png" alt="Website Logo" class="logo" />
         </a>
 
         <nav role="navigation" class="nav-menu w-nav-menu">
@@ -147,7 +147,7 @@
                             href="pages/cv.php" target="_blank" class="button w-button">Voir Mon CV</a>
                     </div>
                     <div>
-                        <!-- Chat -->
+                        <img src="images/chat/LECHAT.gif" />
                     </div>
                 </div>
                 <div>
