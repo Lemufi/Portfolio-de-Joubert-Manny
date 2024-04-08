@@ -196,6 +196,8 @@
 
         <div class="projetsuivant"><a href="xpha.php"
                                         class="button w-button">Voir le projet suivant</a></div>
+                                        <div class="projetsuivant"><a href="https://github.com/Lemufi/MonPetitMVC"
+                                        class="button w-button">Voir sur github</a></div>
 
     </div>
 

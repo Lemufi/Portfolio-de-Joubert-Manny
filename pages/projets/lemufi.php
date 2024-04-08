@@ -183,9 +183,9 @@
                 <div class="w-embed modal-body">
                     <div class="carousel">
                         <div class="slides">
-                            <div class="slide imgslide"><img src="../../images/Pipe/VUE JEU NON DEBUG.PNG" data-zoomable></div>
-                            <div class="slide imgslide"><img src="../../images/Pipe/SANS MODE DEBUG.PNG" data-zoomable></div>
-                            <div class="slide imgslide"><img src="../../images/Pipe/ASSEMBLAGE.PNG" data-zoomable></div>
+                            <div class="slide imgslide"><img src="../../images/lemufi.fr/front.png" data-zoomable></div>
+                            <div class="slide imgslide"><img src="../../images/lemufi.fr/cv.png" data-zoomable></div>
+                            <div class="slide imgslide"><img src="../../images/lemufi.fr/veille.png" data-zoomable></div>
                         </div>
                         <button class="prev">&#10094;</button>
                         <button class="next">&#10095;</button>

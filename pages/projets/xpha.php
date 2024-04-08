@@ -190,6 +190,8 @@
 
         <div class="projetsuivant"><a href="addon.php"
                                         class="button w-button">Voir le projet suivant</a></div>
+                                        <div class="projetsuivant"><a href="https://github.com/Lemufi/XPha"
+                                        class="button w-button">Voir sur github</a></div>
 
     </div>
 
