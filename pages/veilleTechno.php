@@ -181,6 +181,28 @@
                     </div>
                 </div>
                 <div class="w-embed modal-body">
+                    <h1> YOUTUBE </h1>
+                    <h3><a href="https://www.youtube.com/@NetNinja">The Net Ninja</a></h3>
+                    <p>Cette chaîne propose des tutoriels sur le développement web et logiciel, y compris des séries sur C# et .NET.</p>
+
+                    <h3><a href="https://www.youtube.com/@IAmTimCorey">Tim Corey</a></h3>
+                    <p>Tim Corey est spécifiquement axé sur le développement avec C# et .NET, avec des tutoriels, des conseils et des analyses approfondies.</p>
+
+                    <h3><a href="https://www.youtube.com/@programmingwithmosh">Programming with Mosh</a></h3>
+                    <p>Mosh Hamedani propose des vidéos de haute qualité sur divers sujets de développement logiciel</p>
+
+                    <h1> WEB </h1>
+                    <h3><a href="https://www.theverge.com/">The Verge</a></h3>
+                    <p>Site web de technologie et de culture numérique fournissant des actualités, des critiques et des analyses approfondies sur les derniers produits technologiques, les tendances de l'industrie et les événements liés à la technologie.</p>
+
+                    <h1> REDDIT </h1>
+                    <h3><a href="https://www.reddit.com/r/technology/">r/technology</a></h3>
+                    <p>Actualités technologiques variées.</p>
+                    <h3><a href="https://www.reddit.com/r/MachineLearning/">r/MachineLearning</a></h3>
+                    <p>Discussions sur l'apprentissage automatique.</p>
+                    <h3><a href="https://www.reddit.com/r/csharp/">r/csharp</a></h3>
+                    <p>Communauté dédiée au langage C#.</p>
+
                     <div class="carousel">
                         <div class="slides">
                             <div class="slide imgslide"><img src="../images/VeilleTechno/Canban.PNG" alt="Notion Canban" data-zoomable></div>
@@ -190,6 +212,7 @@
                         <button class="prev">&#10094;</button>
                         <button class="next">&#10095;</button>
                     </div>
+
                 </div>    
             </div>
         </div>
