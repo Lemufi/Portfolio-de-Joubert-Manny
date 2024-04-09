@@ -182,7 +182,12 @@
                 </div>
                 <div class="w-embed modal-body">
                     <div class="carousel">
+                        <div class="slides">
+                            <div class="slide imgslide"><img src="../../images/MDL/PageDeConnexion.png" data-zoomable></div>
                             <div class="slide imgslide"><img src="../../images/MDL/Accueil.PNG" data-zoomable></div>
+                        </div>
+                        <button class="prev">&#10094;</button>
+                        <button class="next">&#10095;</button>
                     </div>
                 </div>    
             </div>

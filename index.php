@@ -32,9 +32,9 @@
             html,
             body,
             .site-container {
-                cursor: url('images/Souris/souris_grise.svg'), auto;
-                cursor: -webkit-image-set(url('images/Souris/souris_grise.svg') 1x,
-                        url('images/Souris/souris_grise.svg') 2x), auto;
+                cursor: url('images/Souris/souris_grise.png'), auto;
+                cursor: -webkit-image-set(url('images/Souris/souris_grise.png') 1x,
+                        url('images/Souris/souris_grise.png') 2x), auto;
             }
 
             a,

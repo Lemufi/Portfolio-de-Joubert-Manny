@@ -135,7 +135,7 @@
         </div>
 
         <!-- Navigation Header -->
-        <a href="/" aria-current="page" class="logo-wrapper w-nav-brand w--current">
+        <a href="../index.php" aria-current="page" class="logo-wrapper w-nav-brand w--current">
             <img src="../images/chat/LECHAT.png" alt="Website Logo" class="logo" />
         </a>
 
@@ -167,7 +167,7 @@
 
     <div class="site-container">
 
-        <h1 class="titreveille"> Ma Veille Technologique </h1>
+        <h1 class="titreveille"> Ma Veille Informatique </h1>
 
         <div class="containerVeille">
             <div class="modal-wrapper">
@@ -203,7 +203,7 @@
                     <h3><a href="https://www.reddit.com/r/csharp/">r/csharp</a></h3>
                     <p>Communauté dédiée au langage C#.</p>
 
-                    <div class="carousel">
+                    <div class="carouselVeille">
                         <div class="slides">
                             <div class="slide imgslide"><img src="../images/VeilleTechno/Canban.PNG" alt="Notion Canban" data-zoomable></div>
                             <div class="slide imgslide"><img src="../images/VeilleTechno/chaineYoutube.PNG" alt="Chaine youtube" data-zoomable></div>
