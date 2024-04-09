@@ -32,17 +32,13 @@
             html,
             body,
             .site-container {
-                cursor: url('images/Souris/souris_grise.png'), auto;
-                cursor: -webkit-image-set(url('images/Souris/souris_grise.png') 1x,
-                        url('images/Souris/souris_grise.png') 2x), auto;
+                cursor: url('images/Souris/souris_grise.svg'), auto;
             }
 
             a,
             .dropdown-toggle,
             .button {
                 cursor: url('images/Souris/souris_noire.svg'), auto;
-                cursor: -webkit-image-set(url('images/Souris/souris_noire.svg') 1x,
-                        url('images/Souris/souris_noire.svg') 2x), auto;
             }
 
             /*width*/
@@ -185,13 +181,13 @@
                                     <div>-project.html</div>
                                 </div>
                             </div>
-                            <div style="background-image:url(&quot;images/AssistantVirtuel/ENVIRONEMENT SM.png&quot;)"
+                            <div style="background-image:url(&quot;images/AssistantVirtuel/ENVIRONEMENT SM.PNG&quot;)"
                                 class="modal-thumbnail"></div>
                             <div class="modal-body">
                                 <h3>Assistant Virtuel</h3>
                                 <p>Serious game d'apprentissage pour les élèves de l'école des sous-mariniers <br />
                                     Technologies utilisées : Unity, C# 
-                                </p><a href="/pages/projets/assistantViruel.php" class="button w-button">Voir le projet</a>
+                                </p><a href="/pages/projets/assistantVirtuel.php" class="button w-button">Voir le projet</a>
                             </div>
                         </div>
                         <div role="listitem" class="modal-wrapper project w-dyn-item">

@@ -184,8 +184,8 @@
                     <div class="carousel">
                         <div class="slides">
                             <div class="slide imgslide"><img src="../../images/MonPetitMvc/CreerClient.PNG" data-zoomable></div>
-                            <div class="slide imgslide"><img src="../../images/MonPetitMvc/RechercheClient.PNG" data-zoomable></div>
-                            <div class="slide imgslide"><img src="../../images/MonPetitMvc/SortieRechercheClient.PNG" data-zoomable></div>
+                            <div class="slide imgslide"><img src="../../images/MonPetitMvc/RechercheClient.png" data-zoomable></div>
+                            <div class="slide imgslide"><img src="../../images/MonPetitMvc/SortieRechercheClient.png" data-zoomable></div>
                         </div>
                         <button class="prev">&#10094;</button>
                         <button class="next">&#10095;</button>

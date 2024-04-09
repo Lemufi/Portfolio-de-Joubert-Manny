@@ -183,7 +183,7 @@
                 <div class="w-embed modal-body">
                     <div class="carousel">
                         <div class="slides">
-                            <div class="slide imgslide"><img src="../../images/lemufi.fr/front.png" data-zoomable></div>
+                            <div class="slide imgslide"><img src="../../images/lemufi.fr/Front.PNG" data-zoomable></div>
                             <div class="slide imgslide"><img src="../../images/lemufi.fr/cv.png" data-zoomable></div>
                             <div class="slide imgslide"><img src="../../images/lemufi.fr/veille.png" data-zoomable></div>
                         </div>

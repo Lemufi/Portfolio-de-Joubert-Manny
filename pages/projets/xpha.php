@@ -182,7 +182,7 @@
                 </div>
                 <div class="w-embed modal-body">
                     <div class="carousel">
-                            <div class="slide imgslide"><img src="../../images/XPHA/Xpha.png" data-zoomable></div>
+                        <div class="slide imgslide"><img src="../../images/XPHA/XPha.png" data-zoomable></div>
                     </div>
                 </div>    
             </div>

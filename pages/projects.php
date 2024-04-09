@@ -185,7 +185,7 @@
                                     <div>-project.html</div>
                                 </div>
                             </div>
-                            <div style="background-image:url(&quot;../images/AssistantVirtuel/ENVIRONEMENT SM.png&quot;)"
+                            <div style="background-image:url(&quot;../images/AssistantVirtuel/ENVIRONEMENT SM.PNG&quot;)"
                                 class="modal-thumbnail"></div>
                             <div class="modal-body">
                                 <div>
@@ -235,7 +235,7 @@
                                     <div>-project.html</div>
                                 </div>
                             </div>
-                            <div style="background-image:url(&quot;../images/Pipe/ASSEMBLAGE.png&quot;)"
+                            <div style="background-image:url(&quot;../images/Pipe/ASSEMBLAGE.PNG&quot;)"
                                 class="modal-thumbnail"></div>
                             <div class="modal-body">
                                 <div>
@@ -259,7 +259,7 @@
                                     <div>-project.fr</div>
                                 </div>
                             </div>
-                            <div style="background-image:url(&quot;../images/lemufi.fr/front.png&quot;)"
+                            <div style="background-image:url(&quot;../images/lemufi.fr/Front.PNG&quot;)"
                                 class="modal-thumbnail"></div>
                             <div class="modal-body">
                                 <div>
@@ -284,7 +284,7 @@
                                     <div>-project.html</div>
                                 </div>
                             </div>
-                            <div style="background-image:url(&quot;../images/MonPetitMvc/CreerClient.png&quot;)"
+                            <div style="background-image:url(&quot;../images/MonPetitMvc/CreerClient.PNG&quot;)"
                                 class="modal-thumbnail"></div>
                             <div class="modal-body">
                                 <div>
@@ -384,7 +384,7 @@
                                     <div>-project.html</div>
                                 </div>
                             </div>
-                            <div style="background-image:url(&quot;../images/MDL/Accueil.png&quot;)"
+                            <div style="background-image:url(&quot;../images/MDL/Accueil.PNG&quot;)"
                                 class="modal-thumbnail"></div>
                             <div class="modal-body">
                                 <div>
