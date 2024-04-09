@@ -135,7 +135,7 @@
         </div>
 
         <!-- Navigation Header -->
-        <a href="/" aria-current="page" class="logo-wrapper w-nav-brand w--current">
+        <a href="../../index.php" aria-current="page" class="logo-wrapper w-nav-brand w--current">
             <img src="../../images/chat/LECHAT.png" alt="Website Logo" class="logo" />
         </a>
 
